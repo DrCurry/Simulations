@@ -1,0 +1,13 @@
+C:\Users\SIDDHARTH\Documents\Visual Studio 2015\Projects\ALU_SIM_working\ALU_simulator_GUI\bin\Release\ALU_simulator_GUI.exe.config
+C:\Users\SIDDHARTH\Documents\Visual Studio 2015\Projects\ALU_SIM_working\ALU_simulator_GUI\bin\Release\ALU_simulator_GUI.exe.manifest
+C:\Users\SIDDHARTH\Documents\Visual Studio 2015\Projects\ALU_SIM_working\ALU_simulator_GUI\bin\Release\ALU_simulator_GUI.application
+C:\Users\SIDDHARTH\Documents\Visual Studio 2015\Projects\ALU_SIM_working\ALU_simulator_GUI\bin\Release\ALU_simulator_GUI.exe
+C:\Users\SIDDHARTH\Documents\Visual Studio 2015\Projects\ALU_SIM_working\ALU_simulator_GUI\bin\Release\ALU_simulator_GUI.pdb
+C:\Users\SIDDHARTH\Documents\Visual Studio 2015\Projects\ALU_SIM_working\ALU_simulator_GUI\obj\Release\ALU_simulator_GUI.csprojResolveAssemblyReference.cache
+C:\Users\SIDDHARTH\Documents\Visual Studio 2015\Projects\ALU_SIM_working\ALU_simulator_GUI\obj\Release\ALU_simulator_GUI.Form1.resources
+C:\Users\SIDDHARTH\Documents\Visual Studio 2015\Projects\ALU_SIM_working\ALU_simulator_GUI\obj\Release\ALU_simulator_GUI.Properties.Resources.resources
+C:\Users\SIDDHARTH\Documents\Visual Studio 2015\Projects\ALU_SIM_working\ALU_simulator_GUI\obj\Release\ALU_simulator_GUI.csproj.GenerateResource.Cache
+C:\Users\SIDDHARTH\Documents\Visual Studio 2015\Projects\ALU_SIM_working\ALU_simulator_GUI\obj\Release\ALU_simulator_GUI.exe.manifest
+C:\Users\SIDDHARTH\Documents\Visual Studio 2015\Projects\ALU_SIM_working\ALU_simulator_GUI\obj\Release\ALU_simulator_GUI.application
+C:\Users\SIDDHARTH\Documents\Visual Studio 2015\Projects\ALU_SIM_working\ALU_simulator_GUI\obj\Release\ALU_simulator_GUI.exe
+C:\Users\SIDDHARTH\Documents\Visual Studio 2015\Projects\ALU_SIM_working\ALU_simulator_GUI\obj\Release\ALU_simulator_GUI.pdb
