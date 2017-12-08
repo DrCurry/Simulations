@@ -8,5 +8,5 @@ Simple branching. CCR bits automatically update.
 How to use.
 Enter a number into Register A, and Register C max of 255. Then select an operation. Shifts and NOT operate on Register B only, all other logic ops and Arithmetic ops are performed B <- A logicOp(ArithmeticOp) C. Store C <- B.
 
-##VHDL Simulations
+## VHDL Simulations
 VHDL structural modeling of a 64 bit carry lookahead adder.
